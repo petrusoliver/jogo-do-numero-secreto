@@ -18,4 +18,4 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![ResponsiveVoice](https://img.shields.io/badge/RESPONSIVEVOICE-1572B6?style=for-the-badge&logo=responsve-voice&backgroundColor=gray&logoColor=black)
+![ResponsiveVoice](https://img.shields.io/badge/RESPONSIVE-VOICE-1572B6?style=for-the-badge&logo=responsve-voice&backgroundColor=gray&logoColor=black)
