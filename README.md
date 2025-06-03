@@ -2,7 +2,7 @@
 
 É um jogo interativo onde o jogador precisa adivinhar um número gerado aleatoriamente. Desenvolvido durante as aulas do curso de Lógica de programação da Alura, ele conta com as seguintes funcionalidades:
 
-##🚀 Funcionalidades do Projeto
+## 🚀 Funcionalidades do Projeto
 🗣️ Feedback por voz em português via ResponsiveVoice.js  
 🔢 Contador de tentativas  
 📱 Design responsivo  
@@ -10,7 +10,7 @@
 🎲 Controle de números sorteados para evitar repetições  
 🔄 Função de novo jogo  
 
-##🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -18,4 +18,4 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![ResponsiveVoice](https://img.shields.io/badge/RESPONSIVEVOICE-1572B6?style=for-the-badge&logo=responsvevoice&logoColor=white)
+![ResponsiveVoice](https://img.shields.io/badge/RESPONSIVEVOICE-1572B6?style=for-the-badge&logo=responsvevoice&logoColor=gray)
