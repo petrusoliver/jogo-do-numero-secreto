@@ -9,11 +9,6 @@ Jogo do numero secreto 🎮
 🎲 Controle de números sorteados para evitar repetições
 🔄 Função de novo jogo
 
-✨Extras:
-
-✅ Personalização do intervalo de números. Agora o próprio jogador pode inserir o número limite!
-✅ Confirmação do número por keypress (Enter).
-
 🛠️ Tecnologias Utilizadas
 
 • HTML5
