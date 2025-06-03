@@ -1,4 +1,4 @@
-Jogo do numero secreto 🎮
+## Jogo do numero secreto 🎮
 
 É um jogo interativo onde o jogador precisa adivinhar um número gerado aleatoriamente. Desenvolvido durante as aulas do curso de Lógica de programação da Alura, ele conta com as seguintes funcionalidades:
 
